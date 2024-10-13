@@ -16,7 +16,7 @@ y rápida.
 
 1. Clona el repositorio:
     ```bash
-    git clone 
+    git clone https://github.com/Paola05BE/ConversorMoneda.git 
     ```
 2. Abre el proyecto en **IntelliJ IDEA**.
 3. Configura el SDK de Java si es necesario.
