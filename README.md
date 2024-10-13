@@ -5,7 +5,8 @@ y rápida.
 
 ## Características
 
-- Conversión entre múltiples monedas.
+- Conversión entre monedas: USD, COP, ARS, BRL.
+- Hace uso  del consumo del servicio https://v6.exchangerate-api.com/v6/Claveusuario/pair/Monedaorigen/Monedaaconvertir
 
 ## Requisitos
 
